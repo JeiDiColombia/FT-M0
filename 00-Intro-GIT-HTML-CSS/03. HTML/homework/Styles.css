@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     h1{color: maroon;}
     img{size: 400px,400px;}
@@ -16,4 +17,24 @@
     #spanId {
         font-size: 18px;
         margin: 50px;
+=======
+
+    h1{color: maroon;}
+    img{size: 400px,400px;}
+
+     #thirdDiv {
+            size: 600px,500px;
+            background-color: rgb(255, 182, 174);
+            padding: 50px;
+            border-color:rgb(116, 51, 5)
+        }
+
+    .divClass{}
+        
+    
+
+    #spanId {
+        font-size: 18px;
+        margin: 50px;
+>>>>>>> 5ffc4be3d221c0c647d67744383b1f758d73b53a
             }

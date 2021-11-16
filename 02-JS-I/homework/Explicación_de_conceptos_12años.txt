@@ -1,0 +1,6 @@
+1.
+a) Variables: son palabras que tienen un significado.
+b) Strings: es la forma en la que pones palabras o frases de palabras a una variable en una hoja de datos. 
+c) Funciones (argumentos, return): las funciones son bloques de código que escribes con la intensión de generar un resultado. Los argumentos ocupan el lugar de los datos que quieres poner y el return es el dato que esperas resulte de un bloque de código.  
+d) Declaraciones if: son condiciones que aplicas a una frase y de las que esperas un resultado.
+e) Valores booleanos: son respuestas de falso o verdadero que pones cuando lo necesites. 
