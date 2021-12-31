@@ -1,0 +1,7 @@
+Arrays: son un grupo hecho con elementos que tu escoges, pueden ser números, strings o booleanos. 
+        Incluso puede haber grupos de otros elementos dentro del grupo principal. El grupo tiene 
+        algunos operadores que nos ayudan a sumar o quitar elementos del primer o último lugar 
+        éstos son: .push, .pop, .unshift y .shift. Se puede llamar valores al panel de consola 
+        con ayuda del console.log(array [valor]). También se pueden reemplazar datos al definir
+        el valor de un elemento del array, por ejemplo array[2] = 'nuevo valor'. Y por  último 
+        existe el uso del bucle for para recorrer el array (tiene varias aplicaciones).  
