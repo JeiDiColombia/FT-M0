@@ -1,0 +1,11 @@
+Objetos: los objetos son conjuntos de información detallada sobre un tema específico. 
+Propiedades: las propiedades son títulos claves para detallar la información del tema escogido, estas 
+propiedades tienen valores que pueden ser datos, strings, funciones y booleanos. 
+Métodos: los métodos son las propiedades de un objeto que tienen como valor una función.
+Bucle for…in: el bucle for...in es el bucle for que se utiliza para objetos, con el se puede recorrer
+un objeto. 
+Notación de puntos vs notación de corchetes: para llamar, añadir o invocar propiedades y valores dentro 
+de un objeto utilizamos dos formas, la primera es la notación con puntos que se utiliza con el nombre 
+del objeto + . + el nombre de la propiedad y el segundo es la notación de corchetes que se utiliza con 
+el nombre del objeto + [ + ' + el nombre de la propiedad + ' + ]. Las dos notaciones funcionan para 
+lograr los mismos objetivos. 
