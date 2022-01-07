@@ -1,0 +1,4 @@
+prototype: el prototype es el papá de los elementos que creamos dentro de Javascript. Gracias a él
+existen los métodos de cada elemento. 
+
+Constructors (de Clases): el constructor contiene las propiedades a replicar en futuros objetos. 
