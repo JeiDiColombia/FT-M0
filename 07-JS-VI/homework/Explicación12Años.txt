@@ -1,0 +1,4 @@
+Funciones Callback: las funciones callback son funciones que permiten llamar a funciones creadas
+previamente. Estas funciones apelan al poliformismo que pueden compartir diferentes funciones y pueden 
+ser resumidas desde una función mayor. Estas funciones callback pueden recibir como argumentos mas de una 
+función pre-establecida. 
